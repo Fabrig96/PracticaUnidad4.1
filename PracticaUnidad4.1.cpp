@@ -32,7 +32,6 @@ int main() {
 				App.close();
 				break;
 			}
-
 		}
 
 		App.clear();
